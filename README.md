@@ -2,6 +2,10 @@
 
 # Mi Card
 
+# ScreenShot
+![app demo picture](https://github.com/MrX1068/miCard/blob/master/images/Screenshot_2020-08-21-11-02-30-253_co.appbrewery.micard.jpg)
+
+
 ## Our Goal
 
 Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
